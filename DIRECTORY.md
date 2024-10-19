@@ -392,6 +392,7 @@
     * [Test Send File](file_transfer/tests/test_send_file.py)
 
 ## Financial
+  * [Binomial Options Pricing Model](financial/binomial_options_pricing_model.py)
   * [Equated Monthly Installments](financial/equated_monthly_installments.py)
   * [Exponential Moving Average](financial/exponential_moving_average.py)
   * [Interest](financial/interest.py)
@@ -554,6 +555,7 @@
   * [Sequential Minimum Optimization](machine_learning/sequential_minimum_optimization.py)
   * [Similarity Search](machine_learning/similarity_search.py)
   * [Support Vector Machines](machine_learning/support_vector_machines.py)
+  * [Univariate Linear Regression](machine_learning/univariate_linear_regression.py)
   * [Word Frequency Functions](machine_learning/word_frequency_functions.py)
   * [Xgboost Classifier](machine_learning/xgboost_classifier.py)
   * [Xgboost Regressor](machine_learning/xgboost_regressor.py)
@@ -585,6 +587,8 @@
   * [Collatz Sequence](maths/collatz_sequence.py)
   * [Combinations](maths/combinations.py)
   * [Continued Fraction](maths/continued_fraction.py)
+  * [Cooks Distance](maths/cooks_distance.py)
+  * [Cooks Distance Bak](maths/cooks_distance_BAK.py)
   * [Decimal Isolate](maths/decimal_isolate.py)
   * [Decimal To Fraction](maths/decimal_to_fraction.py)
   * [Dodecahedron](maths/dodecahedron.py)
